@@ -57,7 +57,7 @@ fn main() {
             Ordering::Equal => {
                 // Display the user's guess
                 say(Options {
-                    text: String::from("You guessed Right! Congratulations motherfucker"),
+                    text: String::from("You guessed Right! Congratulations DUDE"),
                     colors: vec![Colors::Green, Colors::White],
                     align: Align::Center,
                     font: Fonts::FontTiny,
