@@ -10,7 +10,7 @@ fn main() {
 
     // Define options for the prompt
     let prompt_options = Options {
-        text: String::from("HELLO MOTHERFUCKER MAKE A FUCKING GUESS BETWEEN 1 AND 20 "),
+        text: String::from("HELLO DUDE MAKE A FUCKING GUESS BETWEEN 1 AND 20 "),
         colors: vec![Colors::Blue, Colors::White],
         line_height: 1,
         gradient: vec!["#ff4400".to_string(), "#0050ff".to_string()],
